@@ -1,1 +1,1 @@
-# Machine_Learning_term_project_movie_regression
+# Data_Mining_term_project_movie_regression
